@@ -1,6 +1,10 @@
 
 
 
+https://user-images.githubusercontent.com/25562844/156367078-7c8a9b31-6b88-4ee6-8cd5-0f30ce41d78b.mp4
+
+
+
 # Age Detector
 
 Hello guys. This is a Deep Learning project using **CNN** with **KERAS**. The main function of this program is to detect age.
